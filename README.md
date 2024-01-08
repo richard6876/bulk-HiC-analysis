@@ -1,2 +1,3 @@
 # bulk-hic-analysis
-bulk hic analysis code (bash &amp; python)
+bulk hic analysis pipeline
+(bash &amp; python)
